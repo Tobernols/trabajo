@@ -52,10 +52,6 @@
 			</center>	
 			</form>
 		</div>
-		<div id="footer" class="pie">
-			Instituto Privado @ 2017 Derechos Reservados
-		
-		</div>
 	</div>
 
 </body>
